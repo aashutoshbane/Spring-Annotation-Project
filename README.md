@@ -1,11 +1,4 @@
-# Basic Spring Dependency Injection (DI)
- 1. Constructor Injection
- 2. Setter Injection
- 3. Annotations
- 
-Dependency Injection is a fundamental aspect of the Spring framework, through which the Spring container "injects" objects into other objects or "dependencies".
-
-Simply put, this allows for loose coupling of components and moves the responsibility of managing components onto the container.
+# Basic Annotation example project
 
 # Download spring jar files
 https://repo.spring.io/release/org/springframework/spring/
