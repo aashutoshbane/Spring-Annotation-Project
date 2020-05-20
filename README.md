@@ -1,5 +1,5 @@
 # Basic Annotation example project
-Overview of how spring dependency injection works using annotations
+Overview of how IOC in spring and spring dependency injection works using annotations
 
 ### Autowiring Injection Types
 1. Constructor Injection
